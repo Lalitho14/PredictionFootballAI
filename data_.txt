@@ -1,0 +1,28 @@
+Datos de Liga X:
+Goles esperados en la LIGA X general = 2.69
+Goles esperados en la LIGA X de local = 1.44
+Goles esperados en la LIGA X de visitante = 1.25
+
+Datos EQUIPO A:
+Goles a favor de EQUIPO A por partido = 1.00
+Goles en contra de EQUIPO A por partido = 2.10
+Goles a favor de EQUIPO A por partido como local = 1.00
+Goles a en contra de EQUIPO A por partido como local = 1.60
+Ultimos resultados del EQUIPO A como local : 
+1 1 empate
+2 1 victoria
+1 0 victoria
+1 3 derrota
+0 3 derrota
+
+Datos EQUIPO B:
+Goles a favor de EQUIPO B por partido = 1.60
+Goles en contra de EQUIPO B por partido = 1.70
+Goles a favor de EQUIPO B por partido como visita = 1.67
+Goles a en contra de EQUIPO B por partido como visita = 2.17
+Ultimos resultados del EQUIPO B como visita : 
+2 1 derrota
+2 4 victoria
+4 1 derrota
+4 2 derrota
+0 1 victoria
